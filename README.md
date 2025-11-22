@@ -87,4 +87,4 @@ cd lifesync
 pip install streamlit pandas numpy scikit-learn plotly joblib
 
 # Run the application
-streamlit run app.py
+streamlit run App.py
