@@ -81,7 +81,7 @@ This project uses 4 datasets:
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/lifesync.git
+git clone https://github.com/Jayanthr4/lifesync.git
 cd lifesync
 # Install dependencies
 pip install streamlit pandas numpy scikit-learn plotly joblib
